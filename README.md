@@ -1,10 +1,10 @@
-# Customer Churn Analysis and Prediction
+# Retainly - Customer Churn Analysis and Prediction
 
 This project aims to analyze and predict customer churn. The marketing team can benefit from this project by understanding insights from customer data and using the web application to predict churn behavior based on customer data, allowing them to take preventive actions.
 
 ---
 
-## Key Feature
+## Key Features
 
 - Customer churn prediction based on selected categories
 - Upload your dataset and know your customer's churn status prediction
