@@ -14,15 +14,15 @@ This project aims to analyze and predict customer churn. The marketing team can 
 
 ## Tech Stacks
 
-| Service       | Description         | Tech        |
-| ------------- | ------------------- | -------     |
-| Frontend      | User dashboard      | React, Nex  |
-| Backend API   | Main API            | Flask       |
-| AI Modelling  | Prediction engine   | PyTorch     |
-| Visualization | Analytics dashboard | PowerBI     |
+| Service       | Description         | Tech           |
+| ------------- | ------------------- | -------        |
+| Frontend      | User dashboard      | React, Next JS |
+| Backend API   | Main API            | Flask          |
+| AI Modelling  | Prediction engine   | PyTorch        |
+| Visualization | Analytics dashboard | PowerBI        |
 
 ## Repositories 
 
-Frontend: https://github.com/oscariqbal/retainly
-Backend: https://github.com/oscariqbal/retainly_be
-AI Modelling: https://github.com/oscariqbal/retainly_modelling
+- Frontend: https://github.com/oscariqbal/retainly
+- Backend: https://github.com/oscariqbal/retainly_be
+- AI Modelling: https://github.com/oscariqbal/retainly_modelling
