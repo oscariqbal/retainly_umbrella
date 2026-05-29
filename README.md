@@ -26,4 +26,3 @@ This project aims to analyze and predict customer churn. The marketing team can 
 - Frontend: https://github.com/oscariqbal/retainly
 - Backend: https://github.com/oscariqbal/retainly_be
 - AI Modelling: https://github.com/oscariqbal/retainly_modelling
-- VIsualization: https://github.com/oscariqbal/retainly_visualization
